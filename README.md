@@ -1,2 +1,1 @@
-# First-repo
-First repository
+One merge is already completed
